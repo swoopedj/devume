@@ -25,6 +25,23 @@
   },
   "work": [
     {
+      "company": "CBANC Network",
+      "position": "Web Developer (Contract)",
+      "website": "www.cbancnetwork.com",
+      "startDate": "July 2016",
+      "endDate": "April 2017",
+      "summary": "",
+      "highlights": [
+        "Delivered consistent progress with my team to complete a full front-end platform rewrite",
+        "Contributed to business logic of the platform’s REST APIs across the microservices architecture",
+        "Built public static pages from mock-ups using Wordpress and responsive front-end libraries",
+        "Constructed modular UI components and integrated them into the end-user web application",
+        "Adhered to standards of functional programming, data immutability, and composition-style development",
+        "Unit tested server side libraries and maintained testing suites for individual front end components",
+        "Practiced continuous delivery during Agile development cycles"
+      ]
+    }
+    {
       "company": "US Geological Survey",
       "position": "Hydrologic Technician",
       "website": "http://tx.usgs.gov/",
