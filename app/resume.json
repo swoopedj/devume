@@ -116,12 +116,13 @@
       "level": "Strong",
       "keywords": [
         "JavaScript",
-        "jQuery",
-        "AngularJS",
-        "Node.js",
+        "Mercury",
+        "NodeJS",
         "Express",
         "HTML",
-        "CSS"
+        "CSS",
+        "Git",
+        "Angular"
       ]
     },
     {
@@ -131,10 +132,13 @@
         "Java",
         "SQL",
         "AJAX",
-        "Bootstrap",
-        "Backbone.js",
-        "Django",
-        "Mocha"
+        "AWS",
+        "jQuery",
+        "Gulp",
+        "Webpack",
+        "Mocha",
+        "NGINX",
+        "SASS"
       ]
     }
   ]
