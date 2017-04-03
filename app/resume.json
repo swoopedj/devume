@@ -26,7 +26,7 @@
   "work": [
     {
       "company": "CBANC Network",
-      "position": "Web Developer (Contract)",
+      "position": "Contract Web Developer",
       "website": "www.cbancnetwork.com",
       "startDate": "July 2016",
       "endDate": "April 2017",
@@ -40,7 +40,7 @@
         "Unit tested server side libraries and maintained testing suites for individual front end components",
         "Practiced continuous delivery during Agile development cycles"
       ]
-    }
+    },
     {
       "company": "US Geological Survey",
       "position": "Hydrologic Technician",
