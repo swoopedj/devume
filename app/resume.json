@@ -25,6 +25,23 @@
   },
   "work": [
     {
+      "company": "Photomadic LLC",
+      "position": "Software Engineer",
+      "website": "www.photomadic.com",
+      "startDate": "May 2017",
+      "endDate": "Feb 2018",
+      "summary": "",
+      "highlights": [
+        "Maintained and added features to mobile apps, internal API, and main web application",
+        "Developed mobile applications and shared libraries in React Native for iOS",
+        "Participated in Agile development cycles, sprint planning, and platform level decision making",
+        "Collaborated with design team to develop UI and interpret state complexities",
+        "Expanded unit testing suites across internal mobile libraries and central API",
+        "Helped introduce state-management systems into web and mobile applications",
+        "Built customer payments portal and integration with Stripe",
+      ]
+    },
+    {
       "company": "CBANC Network",
       "position": "Contract Web Developer",
       "website": "www.cbancnetwork.com",
@@ -51,7 +68,6 @@
       "highlights": [
         "Collected surface water data and prepared relevant reports using established USGS methods",
         "Processed records in USGS database to ensure ongoing accuracy of data displayed on public websites",
-        "Resolved gaps in historical records by interpolating data based on hydrologic trends",
         "Provided assistance to partner organizations and river authorities with fieldwork & data management"
       ]
     },
@@ -76,15 +92,14 @@
       "summary": "",
       "highlights": [
         "Supervised and instructed crew of up to 10 and groups of volunteers of up to 30",
-        "Reviewed and revised scope of work for potential contracts and created timeline for project work",
-        "Oversaw project completion, ensured specific client standards and specifications were met, simultaneously maintained safety of the crew"
+        "Oversaw and managed timelines for project completion, ensured specific client standards and specifications were met; maintained safety of crew"
       ]
     }
   ],
   "projects": [
     {
       "name": "Texans.vote",
-      "url": "http://Texans.vote",
+      "url": "github.com/swoopedj/tx-voting-platform",
       "summary": "A social media contest platform aimed at encouraging civic engagement and increasing voter turnout.",
       "tech": "React, Redux, Node.js, PostgreSQL, Mocha/Chai"
     },
@@ -116,29 +131,31 @@
       "level": "Strong",
       "keywords": [
         "JavaScript",
-        "Mercury",
-        "NodeJS",
+        "Vue.js",
+        "Vuex",
+        "Node",
         "Express",
+        "React Native",
+        "Angular",
         "HTML",
         "CSS",
         "Git",
-        "Angular"
       ]
     },
     {
       "level": "Experienced",
       "keywords": [
-        "Python",
-        "Java",
-        "SQL",
-        "AJAX",
+        "React/Redux",
+        "MongoDB",
         "AWS",
         "jQuery",
+        "SQL",
+        "AJAX",
         "Gulp",
         "Webpack",
-        "Mocha",
-        "NGINX",
-        "SASS"
+        "SASS",
+        "Python",
+        "Java",
       ]
     }
   ]
