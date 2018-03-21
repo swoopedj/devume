@@ -113,7 +113,7 @@
       "name": "Health Inspector",
       "url": "http://inspector.dylanswoope.io",
       "summary": "A web app that retrieves restaurant health inspection scores from the City of Austin data portal",
-      "tech": "AngularJS, Node.js, PostgreSQL, Mocha/Chai"
+      "tech": "AngularJS, Node/Express"
     }
   ],
   "education": [
