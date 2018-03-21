@@ -98,6 +98,12 @@
   ],
   "projects": [
     {
+      "name": "Streamflow",
+      "url": "https://mysterious-island-15566.herokuapp.com/",
+      "summary": "Web app for accessing hydrologic data from the US Geological Survey.  Enter an address or use the 'Find Near Me' geolocation feature to view surface water data for nearby streams, rivers and reservoirs.",
+      "tech": "React, Node/Express, PostgreSQL"
+    },
+    {
       "name": "Texans.vote",
       "url": "github.com/swoopedj/tx-voting-platform",
       "summary": "A social media contest platform aimed at encouraging civic engagement and increasing voter turnout.",
@@ -112,7 +118,7 @@
   ],
   "education": [
     {
-      "institution": "Makersquare",
+      "institution": "Hack Reactor",
       "area": "Advanced Software Engineering Immersive",
       "studyType": "",
       "startDate": "Jan",
@@ -139,7 +145,7 @@
         "Angular",
         "HTML",
         "CSS",
-        "Git",
+        "Git"
       ]
     },
     {
@@ -155,7 +161,7 @@
         "Webpack",
         "SASS",
         "Python",
-        "Java",
+        "Java"
       ]
     }
   ]
